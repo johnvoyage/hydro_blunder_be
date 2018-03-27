@@ -8,6 +8,6 @@
 
 User.destroy_all
 
-User.create(username: 'rfarn', drink_count: 1, high_score: 4, game_count: 7)
-User.create(username: 'rfarn2', drink_count: 2, high_score: 5, game_count: 8)
-User.create(username: 'rfarn3', drink_count: 3, high_score: 6, game_count: 9)
+User.create(username: 'farneysucks', drink_count: 1, high_score: 4000, game_count: 7)
+User.create(username: 'anthonydoestoo', drink_count: 2, high_score: 50000, game_count: 8)
+User.create(username: 'johnscooltho', drink_count: 3, high_score: 150000, game_count: 9)
