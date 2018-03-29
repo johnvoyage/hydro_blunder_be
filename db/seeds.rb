@@ -11,3 +11,8 @@ User.destroy_all
 User.create(username: 'farneysucks', drink_count: 1, high_score: 4000, game_count: 7)
 User.create(username: 'anthonydoestoo', drink_count: 2, high_score: 50000, game_count: 8)
 User.create(username: 'johnscooltho', drink_count: 3, high_score: 150000, game_count: 9)
+User.create(username: 'professorKim', drink_count: 3, high_score: 1, game_count: 9)
+User.create(username: 'professorLawford', drink_count: 3, high_score: 1, game_count: 9)
+User.create(username: 'PrinceWinson', drink_count: 3, high_score: 2, game_count: 9)
+User.create(username: 'username7', drink_count: 3, high_score: 3, game_count: 9)
+User.create(username: 'johnactuallysuxtho', drink_count: 3, high_score: 4, game_count: 9)
